@@ -1,0 +1,6 @@
+d,20221214,3025 SW Canby St Portland,3,John;Grace;Me,John's graduation,should have brought a better present.
+s,20221216,Mt. Bachelor OR,2,skis/snowboard;boots;poles,it would be more fun if there are more friends coming.
+s,20221223,Mt. Hood Meadows OR,4,skis/snowboard;boots;poles,a little too far.
+t,20230210,Pl. du Louvre Paris,2,France,Flight,will not go to Paris in the future.
+d,20221225,6319 SW Capitol Hwy Portland,4,Chris;Joe;Ellen;Me,Christmas,we need better food.
+t,20230102,Seatle Washington,2,U.S.,Road trip,could visit a friend in Seatle next time.

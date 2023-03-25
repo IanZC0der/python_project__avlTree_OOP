@@ -1,0 +1,6 @@
+d,20221214,3025 SW Canby St Portland,3,John;Grace;Me,John's graduation
+s,20221216,Mt. Bachelor OR,2,skis/snowboard;boots;poles
+s,20221223,Mt. Hood Meadows OR,4,skis/snowboard;boots;poles
+t,20230210,Pl. du Louvre Paris,2,France,Flight
+d,20221225,6319 SW Capitol Hwy Portland,4,Chris;Joe;Ellen;Me,Christmas
+t,20230102,Seatle Washington,2,U.S.,Road trip
